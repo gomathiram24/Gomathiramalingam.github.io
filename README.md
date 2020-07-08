@@ -26,9 +26,12 @@ https://github.com/gomathiram24/Airlines
 
 
 
+
 . 	Built a pipeline to collect weather data from Dark Sky API for Taxi out time model
 
 [https://github.com/gomathiram24/Airlines/blob/master/Metar_Data_Final.py]
+
+
 
 
 
@@ -45,7 +48,11 @@ https://github.com/gomathiram24/Airlines
 
 
 
+
+
 •	Gained valuable exposure to big data tools and the operations of CRM, Tech-Ops, Flight-Ops, Revenue Management
+
+
 
 
 
