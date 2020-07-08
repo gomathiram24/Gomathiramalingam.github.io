@@ -1,3 +1,13 @@
+Projects at jetblue
+
+
+
+https://github.com/gomathiram24/Airlines
+
+
+
+
+
 •	Performed data cleaning, exploratory data analysis on Crew, Tech-Ops, Ticketing datasets using python on Databricks
 
 
