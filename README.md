@@ -12,41 +12,11 @@ https://github.com/gomathiram24/Airlines
 
 
 
+•	Created automated data pipeline on Databricks to collect weather data from Dark Sky API and METAR using python
 
 
 
-
-
-•	Built a pipeline to collect weather data from METAR data for Taxi out time model
-
-[https://github.com/gomathiram24/Airlines/blob/master/Metar_Data_Final.py]
-
-
-
-
-
-
-
-. 	Built a pipeline to collect weather data from Dark Sky API for Taxi out time model
-
-[https://github.com/gomathiram24/Airlines/blob/master/Metar_Data_Final.py]
-
-
-
-
-
-
-
-
-•	Developing Customer Segmentation model and SQL to query over 200 million web browsing data points 
-
-[https://github.com/gomathiram24/Airlines/blob/master/Pretty_Cluster.py]
-
-
-
-
-
-
+•	Developing Customer Segmentation model using k means clustering algorithm
 
 
 
@@ -54,21 +24,17 @@ https://github.com/gomathiram24/Airlines
 
 
 
+•	Created pipeline to move large datasets from on-prem to azure blob and snowflake using azure data factory
 
 
 
-
-
-•	Built pipeline and transformed browser data (ETL) on Snowflake using DBT
-
-
-
-
-
+•	Delivered transformed, tested, documented browser datasets on Snowflake using DBT that is deployed to production
 
 
 
 •	Developing a Recommender System with ALS Implicit Collaborative Filtering model that predicts customers travel destinations based on their flight history and web browsing data
 
-[https://github.com/gomathiram24/Airlines/blob/master/Destination_Prediction_Good.py]
+
+
+•	Analyzed customer travel pattern to identify repetitive travelers to various destinations and conducted A/B testing that resulted in increased revenue
 
